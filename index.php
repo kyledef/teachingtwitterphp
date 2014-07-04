@@ -1,6 +1,6 @@
 <?php
 
-require_once("lib/twitter-api/TwitterAPIExchange.php");
+require_once("vendor/autoload.php");
 require_once("creds.php");
 
 $settings = array(

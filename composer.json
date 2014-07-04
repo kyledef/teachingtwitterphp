@@ -1,0 +1,9 @@
+{
+	"name":"kyledef/teachingtwitterphp",
+	"description": "",
+	"version" : "0.1",
+	"type" : "application",
+	"require" : {
+		"j7mbo/twitter-api-php": "dev-master"
+	}
+}
